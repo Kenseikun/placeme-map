@@ -5,7 +5,7 @@
 https://placememap.netlify.app/
 
 ### link to reposity
-https://github.com/Kenseikun/dc-fe-sebastian-dziechciarz
+https://github.com/Kenseikun/placeme-map
 
 #### Project setup
 ```
