@@ -1,8 +1,8 @@
 # Placeme-map
 
-### Deployment on Netlify
+### Deployment on gh-pages
 
-https://placememap.netlify.app/
+https://kenseikun.github.io/placeme-map/
 
 ### link to reposity
 https://github.com/Kenseikun/placeme-map
